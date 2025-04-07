@@ -7,7 +7,7 @@ This is a simple game built using **HTML, CSS, and JavaScript**. The project ser
 - Interactive gameplay
 - Player controls
 - Collision detection
-- Score tracking (if implemented)
+- Score tracking
 
 ## Installation
 To run this game, simply clone the repository and open the `index.html` file in a web browser.
