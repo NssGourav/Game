@@ -1,19 +1,16 @@
 # Game Project
 
 ## Description
-This is a simple game built using **Pygame**, a popular Python library for game development. The project serves as a foundation for learning game mechanics, event handling, and rendering graphics.
+This is a simple game built using **HTML, CSS, and JavaScript**. The project serves as a foundation for learning game mechanics, event handling, and rendering graphics in a web environment.
 
 ## Features
-- Basic game loop
+- Interactive gameplay
 - Player controls
 - Collision detection
 - Score tracking (if implemented)
 
 ## Installation
-To run this game, ensure you have Python installed along with Pygame. You can install game using:
-```sh
-pip install game
-```
+To run this game, simply clone the repository and open the `index.html` file in a web browser.
 
 ## How to Play
 1. Clone the repository:
@@ -24,17 +21,16 @@ pip install game
    ```sh
    cd Game
    ```
-3. Run the game:
-   ```sh
-   python main.py
-   ```
-4. Use the specified controls to play and enjoy!
+3. Open `index.html` in a browser to start playing.
 
 ## Controls
-- Spacebar - Jump
+- Spacebar - Jump (if applicable)
 
 ## Contributing
 Feel free to fork the repository and submit pull requests if you'd like to contribute improvements!
+
+## License
+This project is open-source under the **MIT License**.
 
 ---
 **Author:** [NSS Gourav](https://github.com/NssGourav)
