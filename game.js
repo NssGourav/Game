@@ -133,7 +133,6 @@ function drawBalloon() {
     ctx.lineWidth = 2;
     ctx.stroke();
 
-    // Highlight for 3D effect
     ctx.beginPath();
     ctx.arc(-balloon.radius/3, -balloon.radius/3, balloon.radius/4, 0, Math.PI * 2);
     ctx.fillStyle = 'rgba(255, 255, 255, 0.4)';
